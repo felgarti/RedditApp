@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/RedditApp/static/css/main.2bb532da.chunk.css",
+    "main.js": "/RedditApp/static/js/main.fda2ffe0.chunk.js",
+    "main.js.map": "/RedditApp/static/js/main.fda2ffe0.chunk.js.map",
+    "runtime-main.js": "/RedditApp/static/js/runtime-main.2d725f2d.js",
+    "runtime-main.js.map": "/RedditApp/static/js/runtime-main.2d725f2d.js.map",
+    "static/js/2.eca1f913.chunk.js": "/RedditApp/static/js/2.eca1f913.chunk.js",
+    "static/js/2.eca1f913.chunk.js.map": "/RedditApp/static/js/2.eca1f913.chunk.js.map",
+    "static/js/3.fc685014.chunk.js": "/RedditApp/static/js/3.fc685014.chunk.js",
+    "static/js/3.fc685014.chunk.js.map": "/RedditApp/static/js/3.fc685014.chunk.js.map",
+    "index.html": "/RedditApp/index.html",
+    "static/css/main.2bb532da.chunk.css.map": "/RedditApp/static/css/main.2bb532da.chunk.css.map",
+    "static/js/2.eca1f913.chunk.js.LICENSE.txt": "/RedditApp/static/js/2.eca1f913.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2d725f2d.js",
+    "static/js/2.eca1f913.chunk.js",
+    "static/css/main.2bb532da.chunk.css",
+    "static/js/main.fda2ffe0.chunk.js"
+  ]
+}
